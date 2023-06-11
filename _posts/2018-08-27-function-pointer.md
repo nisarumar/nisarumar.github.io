@@ -1,9 +1,8 @@
 ---
-title: Function Pointers
+title: Function Pointers in C
 categories:
 - C
 ---
-# Fucntion Pointers in C
 
 Function pointers are like having a pet dragon; dangerous, unpredictable, and often unnecessary. So, if you find yourself dealing with function pointers, embrace the chaos and remember to keep a fire extinguisher handy! For your difficult journey ahead, here is a brief reference guide.
 
