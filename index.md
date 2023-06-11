@@ -6,7 +6,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
 
-I am Umar. I am interested in the boundary where software interfaces with the hardware. I plan to host my content here as I navigate through the realm where (digital) logic meets (software) design.
+I am Umar. I am interested in the boundary where software interfaces with the hardware. Join me as I navigate through the realm where (digital) logic meets (software) design.
 
 A little about myself:
 - I am an ECE graduate.
