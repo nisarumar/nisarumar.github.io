@@ -5,7 +5,7 @@ categories:
 ---
 # Fucntion Pointers in C
 
-Function pointers are like having a pet dragon; dangerous, dangerous, unpredictable, and often unnecessary. So, if you find yourself dealing with function pointers, embrace the chaos and remember to keep a fire extinguisher handy! For your difficult journey ahead, here is a brief reference guide.
+Function pointers are like having a pet dragon; dangerous, unpredictable, and often unnecessary. So, if you find yourself dealing with function pointers, embrace the chaos and remember to keep a fire extinguisher handy! For your difficult journey ahead, here is a brief reference guide.
 
 A very basic example of how you can assign a pointer to a function.
 ~~~C
